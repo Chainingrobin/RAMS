@@ -1,4 +1,3 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-image-super-resolution-of-remotely/multi-frame-super-resolution-on-proba-v)](https://paperswithcode.com/sota/multi-frame-super-resolution-on-proba-v?p=multi-image-super-resolution-of-remotely)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <h1 align="center"> ~ Multi-Image Super-Resolution Task ~ </h1>
